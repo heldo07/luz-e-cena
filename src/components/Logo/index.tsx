@@ -1,5 +1,5 @@
-const Logo = ({...props}: React.ImgHTMLAttributes<HTMLImageElement>) =>{
-    return <img {...props} />;
+const Logo = ({ ...props }: React.ImgHTMLAttributes<HTMLImageElement>) => {
+  return <img {...props} />;
 };
 
 export default Logo;
